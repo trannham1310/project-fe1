@@ -1,0 +1,110 @@
+body{
+    font-family:sans-serif;
+
+}
+.dau1 a{
+text-decoration: none;
+color: white;
+}
+.dau2{
+
+    margin-left: 300px;
+    margin-right: 60px;
+
+}
+
+.dau2 button{
+    background: #2a93c9;
+    padding-top: 2px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+}
+.menu{
+             border:1px solid white;
+            background-image:url(../images/slide-01.jpg);
+            overflow: hidden;          
+            height: 100%;
+            width: 100%;
+            background-repeat: no-repeat;
+}
+.carousel-caption d-none d-md-block{
+text-align: left !important;
+}
+
+.carousel-inner{
+    text-align: left !important;
+}
+.textsss{
+    margin-left: 300px;
+    text-align: initial;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+.textsss h1{
+    font-size: 78px;
+    color: white;
+}
+
+.textsss p{
+    font-size:20px;
+    color: white;
+}
+.textsss a{
+    background: white;
+    padding: 10px 30px;
+    border-radius: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+    color: #000;
+    text-decoration: none;
+}
+.box1{
+    margin-top: 140px;
+    background: #2a93c9;
+    padding-bottom: 100px;
+    color: white;
+}
+.thu{
+    text-align: left;
+}
+.time{
+    text-align: right;
+}
+.h4{
+    padding-bottom: 20px;
+    padding-top: 5px;
+    font-size: 20px;
+}
+.box1 a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+.h1{
+    padding-top: 100px;
+    margin-left: 300px;
+    padding-bottom: 100px;
+}
+
+.logo p{
+    font-size: 15px;
+    color: gainsboro;
+}
+.backgr1{
+    border:1px solid white;
+    background-image: url(../images/background-03-1920x939.jpg);
+    overflow: hidden;          
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+.sss1{
+    font-size: 15px;
+    color: gainsboro;
+}
+.sss3{
+    text-align: center;
+}
