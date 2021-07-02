@@ -53,6 +53,10 @@ text-align: left !important;
 .mr1{
     margin-bottom: 20px;
 }
+.textsss a:hover,.textsss1 a:hover{
+    background: #2a93c9;
+    color: white;
+}
 .textsss a{
     background: white;
     padding: 10px 30px;
